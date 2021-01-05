@@ -1,0 +1,35 @@
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe.config
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\bin\Debug\TracingApplication.pdb
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csprojAssemblyReference.cache
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csproj.CoreCompileInputs.cache
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\obj\Debug\TracingApplication.exe
+D:\Program Modifications\Labs\TracingApplication\TracingApplication\obj\Debug\TracingApplication.pdb
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe.config
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\bin\Debug\TracingApplication.pdb
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csprojAssemblyReference.cache
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csproj.CoreCompileInputs.cache
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\obj\Debug\TracingApplication.exe
+D:\Program Modifications\MarissaGoncalvesLab2\TracingApplication\TracingApplication\obj\Debug\TracingApplication.pdb
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe.config
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\bin\Debug\TracingApplication.pdb
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csprojAssemblyReference.cache
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.exe
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.pdb
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe.config
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\bin\Debug\TracingApplication.pdb
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csprojAssemblyReference.cache
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.exe
+C:\Users\cstuser\Downloads\20200205114303_MarissaGoncalvesLab3\MarissaGoncalvesLab3\TracingApplication\TracingApplication\obj\Debug\TracingApplication.pdb
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe.config
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\bin\Debug\TracingApplication.exe
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\bin\Debug\TracingApplication.pdb
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csprojAssemblyReference.cache
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\obj\Debug\TracingApplication.csproj.CoreCompileInputs.cache
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\obj\Debug\TracingApplication.exe
+C:\Users\cstuser\Downloads\MarissaGoncalvesLab3(Section-2-Part-Included)\TracingApplication\TracingApplication\obj\Debug\TracingApplication.pdb
